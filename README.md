@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+React+Frontend+Engineer)
 
 <!--
 **munirsebikaaka/munirsebikaaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
