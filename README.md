@@ -5,6 +5,10 @@
 
 A passionate and experienced front-end developer and a mathematician looking at solving world-class problems with code.
 
+Passion for Problem-Solving: I thrive on solving problems and creating innovative solutions that address real-world challenges. Coding gives me a sense of calm and fulfillment.
+
+What I Love: Coding, collaborating, and working on projects that push the boundaries of mobile development. I’m passionate about React  and all things related to mobile and web development.
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
