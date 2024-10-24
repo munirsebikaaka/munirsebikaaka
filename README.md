@@ -4,6 +4,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+React+Frontend+Engineer)
 
 A passionate and experienced front-end developer and a mathematician looking at solving world-class problems with code.
+🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
 
 Passion for Problem-Solving: I thrive on solving problems and creating innovative solutions that address real-world challenges. Coding gives me a sense of calm and fulfillment.
 
