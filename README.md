@@ -3,6 +3,8 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+React+Frontend+Engineer)
 
+A passionate and experienced front-end developer and a mathematician looking at solving world-class problems with code.
+
 <!--
 **munirsebikaaka/munirsebikaaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
