@@ -3,9 +3,9 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+React+Frontend+Engineer)
 
-<h1>A passionate and experienced front-end developer and a mathematician looking at solving world-class problems with code.</h1>
+<h4>A passionate and experienced front-end developer and a mathematician looking at solving world-class problems with code.</h4>
 
-🔭 Am Currently  developing a single page  for Android using technologies like,Javascript and React  as am exploring other technologies .
+🔭 Am Currently  developing a single page application  for Android using technologies like,Javascript and React  as am exploring other technologies .
 
 
 🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
