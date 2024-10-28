@@ -1,7 +1,7 @@
 <h2 align="center">Hello everyone, I'm Munir Sebikaaka<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+React+Frontend+Engineer)
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=A+React+Frontend+Developer)
 
 <h3>A passionate and experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
