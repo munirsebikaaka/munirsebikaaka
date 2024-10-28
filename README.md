@@ -3,7 +3,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=A+React+Frontend+Developer)
 
-<h3>A passionate and experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
+<h3>An experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
 🔭 Am Currently  developing a single page application  for Android using technologies like Javascript and React  as am exploring other technologies .
 
