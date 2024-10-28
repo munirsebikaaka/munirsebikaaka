@@ -1,9 +1,9 @@
-<h2 align="center">Hey there, I'm Munir Sebikaaka<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hello everyone, I'm Munir Sebikaaka<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+React+Frontend+Engineer)
 
-<h3>A passionate and experienced front-end developer, looking at providing perfect designs with clean and well test code.</h3>
+<h3>A passionate and experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
 🔭 Am Currently  developing a single page application  for Android using technologies like Javascript and React  as am exploring other technologies .
 
@@ -12,11 +12,10 @@ Am currently learning Typescript and React Native because my goal is to become a
 
 🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
 
-Passion for Problem-Solving: I thrive on solving problems and creating innovative solutions that address real-world challenges. Coding gives me a sense of calm and fulfillment.
 
 What I Love: Coding, collaborating, and working on projects that push the boundaries of mobile development. I’m passionate about React  and all things related to mobile and web development.
 
-How to reach me. munirsebikaaka@gmail.com
+For more infor. munirsebikaaka@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
 <p align='left'>
