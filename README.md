@@ -5,7 +5,7 @@
 
 <h3>An experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
-🔭 Am Currently  developing a single page application  for Android using technologies like Javascript and React  as am exploring other technologies .
+🔭 Am Currently  developing a chat application  for Android using technologies like Javascript and React  as am exploring other technologies .
 
 Am currently learning Typescript and React Native because my goal is to become a fullstuck developer so that I start providing a 100% contribution to my employers in any development section.
 
