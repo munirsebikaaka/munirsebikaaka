@@ -5,13 +5,9 @@
 
 <h3>An experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
-🔭 Am Currently  developing a chat application  for Android using technologies like Javascript and React  as am exploring other technologies .
-
-Am currently learning Typescript and React Native because my goal is to become a fullstuck developer so that I start providing a 100% contribution to my employers in any development section.
-
+🔭 Am Currently  developing a market place application  for Android using technologies like Javascript , React and React Native  as am exploring other technologies .
 
 🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
-
 
 What I Love: Coding, collaborating, and working on projects that push the boundaries of mobile development. I’m passionate about React  and all things related to mobile and web development.
 
