@@ -5,7 +5,7 @@
 
 <h3>An experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
-🔭 Am Currently  developing a market place application  for Android using technologies like Javascript , React and React Native  as am exploring other technologies .
+🔭 Am Currently  developing a parking system application  for Android using technologies like React Native as am exploring other technologies .
 
 🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
 
@@ -24,6 +24,8 @@ For more infor. munirsebikaaka@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"  width="45" height="45"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg"
   width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+
 </p>
 
 <!--
