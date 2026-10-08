@@ -5,7 +5,7 @@
 
 <h3>An experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
-🔭 Am Currently  developing a multi-branch management system web u using technologies like ReactJSX as am exploring other technologies .
+🔭 Am Currently  developing a multi-branch management system using technologies like ReactJSX as am exploring other technologies .
 
 🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
 
