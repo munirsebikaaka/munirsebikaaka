@@ -5,11 +5,11 @@
 
 <h3>An experienced front-end developer, looking at providing perfect designs with clean  code.</h3>
 
-🔭 Am Currently  developing a parking system application  for Android using technologies like React Native as am exploring other technologies .
+🔭 Am Currently  developing a multi-branch management system web u using technologies like ReactJSX as am exploring other technologies .
 
 🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
 
-What I Love: Coding, collaborating, and working on projects that push the boundaries of mobile development. I’m passionate about React  and all things related to mobile and web development.
+What I Love: Coding, collaborating, and working on projects that push the boundaries of WEB and MOBILE development. I’m passionate about React  and all things related to WEB and MOBILE development.
 
 For more infor. munirsebikaaka@gmail.com
 
